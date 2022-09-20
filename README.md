@@ -1,6 +1,6 @@
 # REST API Cadastro de Alunos
 
-Aplicação API de um sistema de cadastro de alunos e usuários..
+Aplicação API de um sistema de cadastro de alunos e usuários.
 
 A aplicação pode ser encontrada e testada em https://cadastro-api-rm.herokuapp.com/ . Dados podem ser inseridos, em formato de JSON, utilizando o editor de API Insomnia.
 
