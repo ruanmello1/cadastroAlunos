@@ -64,7 +64,7 @@ Aplicação para cadastro de dados de alunos e usuários, com sistema de login c
 
     Acesso: https://cadastro-api-rm.herokuapp.com/alunos/:id
     
- ## Enviar foto para aluno especifico
+ ## Enviar foto para aluno específico
 
 `POST /fotos/`
 
