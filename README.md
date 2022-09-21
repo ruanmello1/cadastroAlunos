@@ -6,7 +6,7 @@ A aplicação pode ser encontrada e testada em https://cadastro-api-rm.herokuapp
 
 # REST API
 
-Aplicação para cadastro de dados de alunos e usuários, com sistema de login com autenticação e conexão a um banco de dados MySQL.
+Aplicação para cadastro de dados de alunos e usuários, com sistema de login com autenticação e armazenamento em banco de dados MySQL.
 
 
 
