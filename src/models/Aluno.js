@@ -20,7 +20,7 @@ export default class Aluno extends Model {
           validate: {
             len: {
               args: [3, 75],
-              msg: ['Nome precisa ter entre 3 e 75 caracteres.'],
+              msg: ['Sobrenome precisa ter entre 3 e 75 caracteres.'],
             },
           },
         },
